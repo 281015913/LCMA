@@ -4,7 +4,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-#include "prime.h"  // 质数查找表
+#include "prime.h"  // 质数查找表1
 #define BITS 1024
 #define NUM_STRINGS 10000  // 修改此处以生成多个字符串的数量
 
