@@ -15,7 +15,7 @@ static int TP = 0, TN = 0, KN = 0;
 unsigned int** kBF;
 unsigned int** kBF1;
 unsigned int** kBF2;
-static int x, y;       // BF 二维矩阵的坐标
+static int x, y;       // BF 二维矩阵的坐标a
 static int bits = 31;  // 模的质数
 unsigned int size = 0;
 static int seed1, seed2, seed3, seed4, seed5;
