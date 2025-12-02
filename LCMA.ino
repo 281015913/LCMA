@@ -6,7 +6,7 @@
 
 #include "prime.h"  // 质数查找表12345672sss1
 #define BITS 1024
-#define NUM_STRINGS 10000  // 修改此处以生成多个字符串的数量ssss
+#define NUM_STRINGS 10000  // 修改此处以生成多个字符串的数量ssssa
 
 #define HASH_SIZE 32
 #define BLOCK_SIZE 64
